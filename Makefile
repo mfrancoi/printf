@@ -1,5 +1,6 @@
 NAME = libftprintf.a
 
+
 SRC = 	includes/ft_printf.c	\
 		includes/ft_put.c		\
 		includes/ft_itoa.c		\
